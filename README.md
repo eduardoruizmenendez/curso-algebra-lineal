@@ -8,7 +8,7 @@
 
 ### ¿Qué vas a aprender?
 
-Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y María Santos. Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
+Conoce toda el álgebra lineal de la mano de Juan Gabriel Gomila y María Santos. Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros o informáticos como, por ejemplo:
 
 * Logística e instalación de R y RStudio, Anaconda Navigator para Python y Octave GNU para ingeniería.
 * Cómo usar R, Python y Octave como si fuese una calculadora científica para complementar tu estudio día a día
@@ -43,5 +43,3 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 ### El itinerario definitivo para convertirte en un experto en ML e IA
 
 Complementa este curso con el resto del itinerario específico que tienes disponible en la web de [Frogames](https://frogames.es/rutas-de-aprendizaje)
-
-
